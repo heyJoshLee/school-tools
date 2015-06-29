@@ -1,0 +1,1 @@
+I needed something to take a list of strings, shuffle them and then return them so I made this.
